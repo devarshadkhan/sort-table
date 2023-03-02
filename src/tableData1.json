@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "full_name": "Wendall Gripton",
+    "email": "wg@creative.org",
+    "number": 7852359614,
+
+    "dateofbirth": "2022-01-26"
+  },
+  {
+    "id": 2,
+    "full_name": "samuel Mollitt",
+    "email": "smol@github.io",
+    "number": 9835467582,
+
+    "dateofbirth": "2012-01-07"
+  },
+  {
+    "id": 3,
+    "full_name": "Ole Rogge",
+    "email": "orog@usatoday.com",
+    "number": 5235986315,
+
+    "dateofbirth": "2021-06-23"
+  },
+  {
+    "id": 4,
+    "full_name": "Elwin Huyge",
+    "email": "elwin@gmail.com",
+    "number": 2384659320,
+
+    "dateofbirth": "2021-06-07"
+  },
+  {
+    "id": 5,
+    "full_name": "Anthe Maybery",
+    "email": "amay@dyndns.org",
+    "number": 4885957520,
+
+    "dateofbirth": "2021-07-05"
+  },
+  {
+    "id": 6,
+    "full_name": "Arny Amerighi",
+    "email": "aameri@ibm.com",
+    "number": 1252653596,
+
+    "dateofbirth": "2021-03-09"
+  },
+  {
+    "id": 7,
+    "full_name": "Lynnell Shimmans",
+    "email": "lshimmans6@addthis.com",
+    "number": 4563217895,
+
+    "dateofbirth": "2021-06-03"
+  },
+  {
+    "id": 8,
+    "full_name": "Pierre Klug",
+    "email": "pklug7@virginia.edu",
+    "number": 8456238596,
+
+    "dateofbirth": "2021-09-19"
+  },
+  {
+    "id": 9,
+    "full_name": "Melantha Jakeway",
+    "email": "mjakeway8@noaa.gov",
+    "number": 5599667420,
+
+    "dateofbirth": "2021-01-07"
+  },
+  {
+    "id": 10,
+    "full_name": "Jodi Nickless",
+    "email": "jnickless9@dagon.com",
+    "number": 9856324585,
+
+    "dateofbirth": "2021-02-05"
+  }
+]

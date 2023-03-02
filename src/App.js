@@ -1,25 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import Table from "./components/Table";
+import tableData1 from "./tableData1.json";
 
-function App() {
+const columns = [
+  { label: "id", accessor: "id", sortable: true },
+  { label: "Full Name", accessor: "full_name", sortable: true },
+  { label: "Email", accessor: "email", sortable: true },
+  { label: "number", accessor: "number", sortable: true, sortbyOrder: "desc" },
+  { label: "date of birth", accessor: "start_date", sortable: true },
+  ,
+];
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="table_container">
+      <h1 style={{textAlign:"center",textTransform:"capitalize"}}>sortable table with React</h1>
+      <Table
+        data={tableData1}
+        columns={columns}
+      />
     </div>
   );
-}
+};
 
 export default App;
