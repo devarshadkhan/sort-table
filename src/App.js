@@ -6,7 +6,7 @@ const columns = [
   { label: "Full Name", accessor: "full_name", sortable: true },
   { label: "Email", accessor: "email", sortable: true },
   { label: "number", accessor: "number", sortable: true, sortbyOrder: "desc" },
-  { label: "date of birth", accessor: "start_date", sortable: true },
+  { label: "date of birth", accessor: "dateofbirth", sortable: true },
   ,
 ];
 
